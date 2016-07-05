@@ -1,2 +1,2 @@
-#meta-ax
-BSP layer for AX STB
+# meta-miraclebox
+BSP layer for Miraclebox models
