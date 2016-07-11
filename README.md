@@ -1,2 +1,2 @@
-# meta-miraclebox
-BSP layer for Miraclebox models
+# meta-ax
+BSP layer for axas models
